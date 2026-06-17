@@ -22,6 +22,9 @@ It evolves from a simple rule-based model to a machine learning approach using T
 - Uses cosine similarity for recommendations
 - More accurate and scalable
 
+## V3 - Hybrid Recommender
+Improved version combining similarity and game quality.
+
 #Tech Stack
 
 - Python
