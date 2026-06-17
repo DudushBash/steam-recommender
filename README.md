@@ -33,7 +33,7 @@ Improved version combining similarity and game quality.
 - Scikit-learn
 - SciPy
 
-#How to run
+## How to run
 
 bash
 pip install -r requirements.txt
