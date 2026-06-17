@@ -25,7 +25,7 @@ It evolves from a simple rule-based model to a machine learning approach using T
 ## V3 - Hybrid Recommender
 Improved version combining similarity and game quality.
 
-#Tech Stack
+##Tech Stack
 
 - Python
 - Pandas
