@@ -3,7 +3,7 @@ A content-based recommendation system for Steam games using:
 1.Genre-based filtering (v1)
 2.TF-IDF vectorization on game tags (v2)
 
-#Project Overview:
+# Project Overview:
 
 This project demonstrates how recommendation systems work using real Steam game data.
 It evolves from a simple rule-based model to a machine learning approach using TF-IDF and cosine similarity.
